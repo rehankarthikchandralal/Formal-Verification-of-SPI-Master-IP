@@ -1,0 +1,3 @@
+[submodule "sby"]
+	path = sby
+	url = /home/rehan/Projects/Formal_Verification_of_SPI_Master_IP/sby
